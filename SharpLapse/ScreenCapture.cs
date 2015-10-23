@@ -78,6 +78,7 @@ namespace SharpLapse
                 printscreen.Dispose();
                 //printscreen.Save(path + @"\" + currentImg.ToString() + ".png", ImageFormat.Png);
                 //currentImg++;
+
             }
         }
 
