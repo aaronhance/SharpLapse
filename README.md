@@ -1,3 +1,3 @@
 # SharpLapse
 
-To run you need the AVIFile.dll that is included in the build zip.
+To run you need to move the AVIFile.dll to the executable's directory.
